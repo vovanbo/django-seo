@@ -1,4 +1,5 @@
 *.pyc
+*.egg-info
 coverage/*
 docs/_build
 regressiontests/test.db
